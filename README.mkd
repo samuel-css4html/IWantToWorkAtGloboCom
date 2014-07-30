@@ -125,7 +125,7 @@ faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
 Relação de vagas atual:
 * Área de Esporte (1 vaga)
-* Área de Jornalimo (1 vaga)
+* Área de Jornalismo (1 vaga)
 * Produtos Globo.com (3 vagas)
 * Plataforma de Cadastro (1 vaga)
 * Plataforma de Personalização (1 vaga)
