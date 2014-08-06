@@ -369,3 +369,8 @@ Procuramos profissionais que tenham perfil misto de DBA/AD para trabalhar nos pr
 * Conhecimentos em Web Semântica
 * SPARQL
 * Python/Django,Ruby/Rails, Javascript
+
+Plataforma de Interatividades
+-------------------------------------
+
+
