@@ -1,7 +1,7 @@
 Por que trabalhar na globo.com?
 ===============================
 
-"Por que você gostaria de trabalhar na globo.com?" - essa é a pergunta clássica 
+"Por que você gostaria de trabalhar na globo.com?" - essa é a pergunta clássica
 nos processos de seleção de qualquer empresa, certo? Então, deixa a gente te ajudar
 a respondê-la quando chegar a hora da sua entrevista. Aí vai:
 
@@ -134,6 +134,7 @@ Relação de vagas atual:
 * Tsuru: Plataforma como serviço (1 vaga)
 * Área de Infraestrutura (6 vagas)
 * Banco de Dados (1 vaga)
+* Plataforma de Interatividades (1 vaga)
 
 Veja abaixo a descrição detalhada de cada vaga.
 
@@ -197,7 +198,7 @@ Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutu
 Plataforma de Cadastro (1 Vaga)
 ---------------------------------
 
-Time responsável pela plataforma única de cadastro e login da globo.com, assim como as inscrições de programas como "BBB", "The Voice" e colaborações dos internautas. O Time trabalha com diversas tecnologias, linguagens, frameworks e sistemas, o que proporciona um ambiente variado, interessante e desafiador. Nossas aplicações lidam com milhões de requisições diariamente e precisamos de soluções criativas para lidar com estes volumes. 
+Time responsável pela plataforma única de cadastro e login da globo.com, assim como as inscrições de programas como "BBB", "The Voice" e colaborações dos internautas. O Time trabalha com diversas tecnologias, linguagens, frameworks e sistemas, o que proporciona um ambiente variado, interessante e desafiador. Nossas aplicações lidam com milhões de requisições diariamente e precisamos de soluções criativas para lidar com estes volumes.
 
 **Requisitos para a vaga**
 
@@ -222,13 +223,13 @@ Time responsável por analisar o perfil dos usuários com base em suas iteraçõ
 
 **Requisitos para a vaga**
 
-* Experiência em uso de bancos NoSql 
+* Experiência em uso de bancos NoSql
 * Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
 * Proficiência no desenvolvimento de sistemas de recomendação nas abordagens Collaborative Filtering e Content Based.
 * Experiência no processamento de grandes volumes de dados e eventos em tempo real.
 * Conhecimento do projeto Apache Mahout
-* Experiência sólida em design e arquitetura de software; 
-* Experiência sólida em construção de aplicações web com Ruby, Rails; 
+* Experiência sólida em design e arquitetura de software;
+* Experiência sólida em construção de aplicações web com Ruby, Rails;
 * Experiência sólida com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
 * Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc)
 
@@ -236,19 +237,19 @@ Time responsável por analisar o perfil dos usuários com base em suas iteraçõ
 Plataforma de Comentários (1 Vaga)
 -------------------------------------
 
-Time responsável por desenvolver a plataforma de comentários da globo.com. 
+Time responsável por desenvolver a plataforma de comentários da globo.com.
 
 **Requisitos para a vaga**
 
-* Ser apaixonado por desenvolvimento e tecnologia; 
-* Ter facilidade de trabalhar dentro de times multi-disciplinares; 
-* Escrever código limpo e legível para pessoas; 
-* Experiência sólida em design e arquitetura de software; 
-* Experiência sólida em construção de aplicações web com Python, Django, Tornado; 
+* Ser apaixonado por desenvolvimento e tecnologia;
+* Ter facilidade de trabalhar dentro de times multi-disciplinares;
+* Escrever código limpo e legível para pessoas;
+* Experiência sólida em design e arquitetura de software;
+* Experiência sólida em construção de aplicações web com Python, Django, Tornado;
 * Experiência sólida com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
 * Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc)
 * Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
-* Experiência com infra-estrutura de aplicações web de alta escala; 
+* Experiência com infra-estrutura de aplicações web de alta escala;
 * Experiência com um mecanismo de controle de versão;
 * Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
 
@@ -258,7 +259,7 @@ Time responsável por desenvolver a plataforma de comentários da globo.com.
 Área de Semântica
 -------------------------------------
 
-Esta posição é no time responsável pela semântica da Globo.com. Nossa missão é  organizar todo o conteúdo publicado em nossos sites. Desenvolver formas de mesclar e analisar os dados previamente organizados criando novas formas de consumo do conteúdo da globo.com. 
+Esta posição é no time responsável pela semântica da Globo.com. Nossa missão é  organizar todo o conteúdo publicado em nossos sites. Desenvolver formas de mesclar e analisar os dados previamente organizados criando novas formas de consumo do conteúdo da globo.com.
 
 Trabalhamos com as mais diversas linguagens (Java, Python/Django, JS/HTML/CSS), desenvolvendo APIs, ferramentas de anotação, e novos domínios (ontologias).
 
@@ -274,7 +275,7 @@ Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
 Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
 Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
 Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
-Conhecimento de web semântica (Ontologia, Sparql e Owl); 
+Conhecimento de web semântica (Ontologia, Sparql e Owl);
 Conhecimento de vocabulários padrões de mercado(FOAF, Dublin Core, GEO,...)
 
 **Nice to Have:**
@@ -289,9 +290,9 @@ Tsuru: Plataforma como serviço (1 Vaga)
 
 O Tsuru é uma plataforma como serviço (PaaS) open source, nascida na Globo.com, com objetivo de tornar o processo de deploy de uma aplicação mais rápido, simples e divertido.
 
-Procuramos profissionais que gostem de aprender, interessados em trabalhar com open source e em tornar o Tsuru o melhor PaaS do universo. 
+Procuramos profissionais que gostem de aprender, interessados em trabalhar com open source e em tornar o Tsuru o melhor PaaS do universo.
 
-Fazer parte da equipe do Tsuru significa que você vai lidar com diversas atividades envolvidas no processo de desenvolvimento e execução de uma aplicação; linguagens e frameworks; sistemas de controle de versão; sistemas operacionais; gerenciamento de máquinas virtuais e containers; e redes de computadores. 
+Fazer parte da equipe do Tsuru significa que você vai lidar com diversas atividades envolvidas no processo de desenvolvimento e execução de uma aplicação; linguagens e frameworks; sistemas de controle de versão; sistemas operacionais; gerenciamento de máquinas virtuais e containers; e redes de computadores.
 
 Entre as tecnologias utilizadas no Tsuru, você encontrará Go, Python, MongoDB, MySQL, Docker, Juju, Shell Script, Amazon Web Services, etc.
 
@@ -300,11 +301,11 @@ Entre as tecnologias utilizadas no Tsuru, você encontrará Go, Python, MongoDB,
 --------------------------------
 
 Perfil ideal:
- 
+
 O meio caminho entre um desenvolvedor e um sysadmin. Você sabe o que é POSIX e já recompilou o kernel do seu Sistema Operacional. Brinca de testes de carga em servidores nas horas vagas. Vê necessidade de melhoria contínua. Ama trabalhar com ferramentas e tecnologias open source. Acredita que o sistema precisa prover o melhor não só ao usuário final, mas também à quem irá administra-lo. Vê a adversidade como uma oportunidade de crescimento. Acredita que a colaboração e o compartilhamento de conhecimento pode ajudá-lo a alcançar um crescimento estável a longo prazo com beneficios mútuos, maximizando não só o desempenho individual como coletivo.
 
 Competências Comportamentais Necessárias:
- 
+
  - Orientado a resultados;
  - Comprometido;
  - Criativo;
@@ -314,10 +315,10 @@ Competências Comportamentais Necessárias:
  - Ser apaixonado pelo que faz;
  - Saber se comunicar e escrever bem;
  - Ter alta capacidade de se adaptar à mudanças;
- 
- 
+
+
 Competências Técnicas Necessárias:
- 
+
 - Noções básicas de segurança;
 - Desenvolvimento em geral (Algoritmos / Compiladores / etc.);
 - Conhecimentos de geração de pacotes RPM/DEB;
@@ -328,10 +329,10 @@ Competências Técnicas Necessárias:
 - Conhecimento de automação de deploy com Puppet / Chef / etc;
 - Conhecimento geral Apache / MySQL / nginx / Redis / Memcache / MongoDB;
 - Conhecimentos de sistemas de controle de versão (preferencialmente GIT).
- 
- 
+
+
 Competências Técnicas Desejáveis:
- 
+
 - Conhecimentos de virtualização e cloud são muito desejáveis;
 - Instalação e configuração de novos ambientes de Desenvolvimento, Homologação e Produção na Amazon AWS;
 - Conhecer os principais serviços Linux e como configurá-los e administrá-los;
@@ -339,9 +340,9 @@ Competências Técnicas Desejáveis:
 - Elaboração e implantação de planos de backup, restore, monitoração e disaster-recovery;
 - Integração com ambientes corporativos via VPC;
 - Elaboração e implantação de políticas de segurança.
- 
- 
- Nossa equipe é top e nosso ambiente é descontraído e inovador! 
+
+
+ Nossa equipe é top e nosso ambiente é descontraído e inovador!
 
 
 Banco de Dados (1 Vaga)
@@ -370,7 +371,22 @@ Procuramos profissionais que tenham perfil misto de DBA/AD para trabalhar nos pr
 * SPARQL
 * Python/Django,Ruby/Rails, Javascript
 
-Plataforma de Interatividades
+
+Plataforma de Interatividades (1 Vaga)
 -------------------------------------
 
+Nossa área é responsável por criar e manter os produtos interativos da globo.com como a votação do BBB, o palco de interatividades da TV, o feed de conversa ao vivo com o Bem Estar, Gamification entre outros.
 
+Criamos produtos de ponta a ponta entregando a melhor experiência ao usuário, tanto no visual como em uma solução performática para atender instantâneamente a milhões de usuários.
+
+**FullStack Developer**
+* HTML5/JS/CSS3/SASS
+* Python
+* Mysql/MongoDB
+* HTTP/REST/JSON
+* Práticas XP como TDD, Refactoring e Continuos Integration
+
+** Desejável **
+* Linux
+* Redis
+* Nginx
