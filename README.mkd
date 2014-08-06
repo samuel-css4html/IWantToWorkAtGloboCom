@@ -387,6 +387,7 @@ Criamos produtos de ponta a ponta entregando a melhor experiência ao usuário, 
 * Práticas XP como TDD, Refactoring e Continuos Integration
 
 ** Desejável **
+
 * Linux
 * Redis
 * Nginx
