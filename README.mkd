@@ -386,7 +386,7 @@ Criamos produtos de ponta a ponta entregando a melhor experiência ao usuário, 
 * HTTP/REST/JSON
 * Práticas XP como TDD, Refactoring e Continuos Integration
 
-** Desejável **
+**Desejável**
 
 * Linux
 * Redis
