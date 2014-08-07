@@ -194,27 +194,6 @@ Experência com práticas de XP (TDD, pair programming, refactoring, continuous 
 Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
 
 
-
-Plataforma de Cadastro (1 Vaga)
----------------------------------
-
-Time responsável pela plataforma única de cadastro e login da globo.com, assim como as inscrições de programas como "BBB", "The Voice" e colaborações dos internautas. O Time trabalha com diversas tecnologias, linguagens, frameworks e sistemas, o que proporciona um ambiente variado, interessante e desafiador. Nossas aplicações lidam com milhões de requisições diariamente e precisamos de soluções criativas para lidar com estes volumes.
-
-**Requisitos para a vaga**
-
-* Práticas de engenharia de software (refactory, TDD, etc..)
-* Proficiência em Arquiteturas de sistemas web (arquiteturas comuns, casos de sucesso, problemas típicos etc..)
-* Conhecimentos de mecanismos e estratégias de cache
-* Experiência sólida em desenvolvimento web (HTTP, REST, webserver, etc..)
-* Noções de segurança web (injection, XSS, CSRF, codificação segura)
-* Conhecimentos mínimos em infraestrutra (Sistemas Operacionais, Redes (TCP/IP), DNS, webservers etc..)
-* Queries SQL, Oracle e Mysql
-* Sólidos conhecimentos em java, ruby, javascript e CSS
-* Experiência em java com JPA, Hibernate, Spring, EJB, Struts, Velocity
-* Experiência em com jboss e tomcat
-* Experiência em java com o pacote "java.concurrent"
-
-
 Plataforma de Personalização (1 Vaga)
 -------------------------------------
 
