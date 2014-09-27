@@ -323,7 +323,7 @@ Competências Técnicas Desejáveis:
  Nossa equipe é top e nosso ambiente é descontraído e inovador!
 
 
-Banco de Dados (2 Vaga)
+Banco de Dados (2 Vagas)
 -------------------------------------
 
 Procuramos um DBA com experiência em ambientes de produção com alta disponibilidade e em suporte a equipes de desenvolvimento. Buscamos alguém que ame Internet, seja flexível, saiba se comunicar bem, goste de trabalhar em equipes e adore aprender novas tecnologias, como Big Data e NoSQL.
