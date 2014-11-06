@@ -126,7 +126,7 @@ faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 Relação de vagas atual:
 * Área de Esporte (1 vaga)
 * Área de Jornalismo (1 vaga)
-* Produtos Globo.com (3 vagas)
+* Área de Entretenimento (1 vaga)
 * Plataforma de Personalização (1 vaga)
 * Plataforma de Comentários (1 vaga)
 * Área de Semântica
@@ -181,7 +181,7 @@ Ser poliglota em linguagens de programação e linguagens naturais;
 -------------------------------------
 
 Você sabia que uma votação do BBB já teve mais votos que o Obama em sua primeira eleição?
-Um único clique pra muitos e um desafio enorme para um time extremamente focado em fazer da sua diversão, uma prioridade.
+Um único clique pra muitos e um desafio enorme para um time extremamente focado em fazer da sua diversão uma prioridade.
 Venha fazer parte do time do Gshow o portal de entretenimento da TV Globo!
 
 
