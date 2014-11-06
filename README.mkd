@@ -177,17 +177,19 @@ Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
 
-Produtos Globo.com (3 Vagas)
+Área de Entretenimento (1 Vaga)
 -------------------------------------
 
-TechTudo, o site de tecnologia da Globo.com. Tudo sobre jogos, eletrônicos, celulares, software, TV, internet e downloads.
+Você sabia que uma votação do BBB já teve mais votos que o Obama em sua primeira eleição?
+Um único clique pra muitos e um desafio enorme para um time extremamente focado em fazer da sua diversão, uma prioridade.
+Venha fazer parte do time do Gshow o portal de entretenimento da TV Globo!
 
 
 **Must Have:**
-Ser apaixonado por desenvolvimento e tecnologia; Ter facilidade de trabalhar dentro de times multi-disciplinares; Escrever código limpo e legível para pessoas; Ter conhecimentos em design e arquitetura de software; Experiência com Python e Django; Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+Ser apaixonado por desenvolvimento e tecnologia; Ter facilidade de trabalhar dentro de times multi-disciplinares; Escrever código limpo e legível para pessoas; Ter conhecimentos em design e arquitetura de software; Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
 
 **Should Have:**
-Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); Experiência com testes unitários, de aceitação, mocks, Selenium, etc; Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+Experiência com Python e Django; Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); Experiência com testes unitários, de aceitação, mocks, Selenium, etc; Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
 
 **Nice to Have:**
 Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
