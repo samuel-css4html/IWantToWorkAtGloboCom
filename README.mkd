@@ -1,12 +1,10 @@
-Por que trabalhar na globo.com?
-===============================
+# Por que trabalhar na globo.com?
 
 "Por que você gostaria de trabalhar na globo.com?" - essa é a pergunta clássica
 nos processos de seleção de qualquer empresa, certo? Então, deixa a gente te ajudar
 a respondê-la quando chegar a hora da sua entrevista. Aí vai:
 
-Líder de Mercado em todos os segmentos que atua
-===============================================
+# Líder de Mercado em todos os segmentos que atua
 
 A globo.com é líder absoluta no mercado de portais de notícias, esportes e
 entretenimento em toda a América Latina. São dezenas de milhões de acessos por
@@ -25,8 +23,7 @@ dia).
 Logo, **um dos motivos de você querer trabalhar na globo.com é ser parte
 integrante da vida diária de mais de 10 milhões de brasileiros**.
 
-Líder no segmento de desenvolvimento ágil para a Web
-====================================================
+# Líder no segmento de desenvolvimento ágil para a Web
 
 A globo.com é referência de mercado em desenvolvimento ágil, contando com times
 atuando com metodologias diversas como scrum e lean.
@@ -46,8 +43,7 @@ na globo.com é de total estímulo a inovação.
 Sendo assim, **você quer trabalhar na globo.com para crescer profissionalmente
 em um ambiente que proporciona experimentação e aprendizado**.
 
-Enorme investimento em treinamentos e conferências
-==================================================
+# Enorme investimento em treinamentos e conferências
 
 A globo.com investe **PESADO** em treinamento de suas equipes. Isso fica
 evidente na quantidade de eventos que patrocinamos e mais ainda na quantidade
@@ -70,8 +66,7 @@ das equipes.
 Desta forma, **você quer trabalhar na globo.com, para estar em uma empresa que
 vai investir de forma consistente na sua carreira e crescimento profissional**.
 
-Ok, quero trabalhar na globo.com! Como eu faço?
-===============================================
+# Ok, quero trabalhar na globo.com! Como eu faço?
 
 Se você se convenceu que quer trabalhar na globo.com:
 
@@ -95,14 +90,12 @@ profissão, por favor procure outra empresa. É essencial que os candidatos que
 mandarem currículo sejam apaixonados por desenvolvimento.
 
 
-Se você não é desenvolvedor e gostaria de trabalhar em outra area
-=================================================================
+# Se você não é desenvolvedor e gostaria de trabalhar em outra area
 
 Envie email para talentos@corp.globo.com com o seu CV e a área de interesse
 
 
-Condições e Benefícios Oferecidos
-=================================
+# Condições e Benefícios Oferecidos
 
 * Local: Rio de Janeiro (não se preocupe, se você é de fora, nós te ajudamos com a mudança!)
 * Regime: CLT
@@ -117,26 +110,73 @@ Oferecemos salário de mercado! Além disso, também temos os seguintes benefíc
 * Seguro de vida
 * Previdência Privada
 
-Vagas Disponíveis
-=================
+# Vagas Disponíveis
 
 Estamos sempre em busca de talentos! Mesmo que não haja vaga disponível abaixo,
 faça o fork do projeto e mande no lugar da vaga "Nenhuma vaga disponível".
 
 Relação de vagas atual:
+* Área de Webmedia (3 vagas)
 * Área de Esporte (1 vaga)
 * Área de Jornalismo (1 vaga)
 * Área de Entretenimento (1 vaga)
 * Plataforma de Comentários (1 vaga)
 * Tsuru: Plataforma como serviço (1 vaga)
-* Área de Infraestrutura (6 vagas)
 * Banco de Dados (1 vaga)
 * Plataforma de Interatividades (1 vaga)
 
 Veja abaixo a descrição detalhada de cada vaga.
 
-Área de Esporte (1 vaga)
---------------------------------
+## Área de Webmedia - 3 vagas
+
+Esta área da Globo.com é responsável pela plataforma e produtos de vídeos da Globo.com. Nossa missão é disponibilizar toda a produção de vídeos das organizações Globo na Internet, com a melhor qualidade possível. Hoje, mais de 300 milhões de vídeos são assistidos por mês, suportados por uma infra-estrutura gigantesca. Além disso, somos responsáveis pela transmissão ao vivo de vários eventos - desde campeonatos estaduais de futebol, a última copa do mundo, a próxima olimpíada, entre outros grandes eventos, como o último Rock-in-Rio, até as câmeras ao vivo do Big Brother Brasil, que ficam disponíveis 24x7 para todos os assinantes da globo.com.
+
+A maioria do nosso código está escrito em Ruby, mas somos pragmáticos e gostamos de experimentar - por isso temos coisas em C/C++, Python, Lua, Java, Objective C, Perl. HTML5, CSS e Javascript também são bem corriqueiros hoje. Nós usamos o servidor Web nginx na maioria das nossas aplicações, mas também temos algumas coisas com apache. Todo o nosso ambiente de desenvolvimento e produção é fundamentado em cima de tecnologias open-source, começando pelo SO: Linux. Usamos Linux para tudo. Os times são pequenos e têm autonomia para escolher as tecnologias que julgarem mais adequadas para resolver cada problema, então com certeza temos mais tecnologias envolvidas nessa equação.
+
+Temos posições para dois papéis diferentes: DevOps e Desenvolvimento, detalhadas abaixo:
+
+### DevOps Webmedia (2 vagas)
+
+Esta posição é para atuar como DevOps num dos times responsáveis por manter e evoluir a nossa plataforma e os nossos produtos de vídeos. As atribuições desse papel vão desde do provisionamento de servidores físicos, passando por gestão de configuração, rotinas de deploy, testes e ajustes de desempenho (tanto no nível do Sistema Operacional, quanto no nível da aplicação e WebServer), desenvolvimento de APIs REST, ferramentas para monitoração e profiling, além do desenvolvimento e testes de aplicações (a maioria backend escrito em uma multitude de linguagens), sempre buscando a alta disponibilidade e escalabilidade. Trabalhando dentro de um time multidisciplinar, junto com vários outros analistas desenvolvedores, a tendência é que você também execute outras tarefas além dessas, dependendo do momento de cada projeto.
+
+**Must Have:**
+* Experiência com infra-estrutura de aplicações web de alta escala;
+* Experiência com Linux, e algum sistema de empacotamento (rpm, deb, etc)
+* Conhecimento de automação de deploy com alguma ferramenta de provisionamento, tais como Puppet, Chef, etc;
+* Conhecimento de virtualização e/ou conteinerização com XEN, Docker, etc
+* Ser poliglota em linguagens de programação e scripting;
+* Ter facilidade de trabalhar dentro de times multi-disciplinares;
+* Escrever código limpo e legível para pessoas;
+* Experiência com Ruby, Python ou C/C++ (a maioria do nosso código é em Ruby!);
+
+**Should Have:**
+* Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+* Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+* Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+
+### Desenvolvimento Webmedia (1 vaga)
+Esta posição é para trabalhar em um dos times de desenvolvimento que cuidam da plataforma e dos produtos de vídeos da (globo.com)[http://www.globo.com/]. Estamos organizados em times pequenos, multi-disciplinares e autônomos, e nós trabalhamos com as mais diversas linguagens de programação (Ruby on Rails, C/C++, Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de encoding, infra-estrutura de distribuição e entrega de vídeos, sistemas de recomendação e analytics, até portais, como o (globo.tv)[http://globotv.globo.com] e o (Globosat Play)[http://globosatplay.com.br].
+
+**Must Have:**
+* Ser apaixonado por desenvolvimento e tecnologia;
+* Ter facilidade de trabalhar dentro de times multi-disciplinares;
+* Escrever código limpo e legível para pessoas;
+* Ter conhecimento e experiência em design e arquitetura de software;
+* Experiência com Ruby, Python ou C/C++ (a maioria do nosso código é em Ruby!);
+* Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+
+**Should Have:**
+* Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+* Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+* Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+
+**Nice to Have:**
+* Experiência com metodologias ágeis, como Scrum;
+* Experiência com infra-estrutura de aplicações web de alta escala;
+* Conhecimento de automação de deploy com Puppet, Chef, etc;
+* Ser poliglota em linguagens de programação e linguagens naturais;
+
+## Área de Esporte (1 vaga)
 
 A Copa acabou mas temos um grande desafio pela frente: Olimpíadas 2016! Você terá a oportunidade de fazer parte da equipe de desenvolvimento do portal líder em esportes no Brasil. Se você quer fazer parte dessa história, encarando os desafios que temos pela frente, esse é o seu time!
 
@@ -149,9 +189,7 @@ Experiência com práticas de XP  (TDD, pair programming, refactoring, continuou
 **Nice to Have:**
 Experiência com metodologias ágeis, como Scrum; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
 
-
-Área de Jornalismo (1 vaga)
---------------------------------
+## Área de Jornalismo (1 vaga)
 
 Você quer ajudar a construir o maior portal de notícias do país? Venha participar da equipe que faz o G1 e ajude a informar melhor 10 milhões de brasileiros todo dia.
 
@@ -174,9 +212,7 @@ Experiência com infra-estrutura de aplicações web de alta escala;
 Conhecimento de automação de deploy com Puppet, Chef, etc;
 Ser poliglota em linguagens de programação e linguagens naturais;
 
-
-Área de Entretenimento (1 Vaga)
--------------------------------------
+## Área de Entretenimento (1 Vaga)
 
 Você sabia que uma votação do BBB já teve mais votos que o Obama em sua primeira eleição?
 Um único clique pra muitos e um desafio enorme para um time extremamente focado em fazer da sua diversão uma prioridade.
@@ -192,9 +228,7 @@ Experiência com Python e Django; Experência com práticas de XP (TDD, pair pro
 **Nice to Have:**
 Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
 
-
-Plataforma de Comentários (1 Vaga)
--------------------------------------
+## Plataforma de Comentários (1 Vaga)
 
 Time responsável por desenvolver a plataforma de comentários da globo.com.
 
@@ -212,9 +246,7 @@ Time responsável por desenvolver a plataforma de comentários da globo.com.
 * Experiência com um mecanismo de controle de versão;
 * Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
 
-
-Tsuru: Plataforma como serviço (1 Vaga)
--------------------------------------
+## Tsuru: Plataforma como serviço (1 Vaga)
 
 O Tsuru é uma plataforma como serviço (PaaS) open source, nascida na Globo.com, com objetivo de tornar o processo de deploy de uma aplicação mais rápido, simples e divertido.
 
@@ -224,57 +256,7 @@ Fazer parte da equipe do Tsuru significa que você vai lidar com diversas ativid
 
 Entre as tecnologias utilizadas no Tsuru, você encontrará Go, Python, MongoDB, MySQL, Docker, Juju, Shell Script, Amazon Web Services, etc.
 
-
-Área de Infraestrutura (6 vagas)
---------------------------------
-
-Perfil ideal:
-
-O meio caminho entre um desenvolvedor e um sysadmin. Você sabe o que é POSIX e já recompilou o kernel do seu Sistema Operacional. Brinca de testes de carga em servidores nas horas vagas. Vê necessidade de melhoria contínua. Ama trabalhar com ferramentas e tecnologias open source. Acredita que o sistema precisa prover o melhor não só ao usuário final, mas também à quem irá administra-lo. Vê a adversidade como uma oportunidade de crescimento. Acredita que a colaboração e o compartilhamento de conhecimento pode ajudá-lo a alcançar um crescimento estável a longo prazo com beneficios mútuos, maximizando não só o desempenho individual como coletivo.
-
-Competências Comportamentais Necessárias:
-
- - Orientado a resultados;
- - Comprometido;
- - Criativo;
- - Autodidata;
- - Pró-ativo;
- - Ser apaixonado por engenharia de software, performance e escalabilidade;
- - Ser apaixonado pelo que faz;
- - Saber se comunicar e escrever bem;
- - Ter alta capacidade de se adaptar à mudanças;
-
-
-Competências Técnicas Necessárias:
-
-- Noções básicas de segurança;
-- Desenvolvimento em geral (Algoritmos / Compiladores / etc.);
-- Conhecimentos de geração de pacotes RPM/DEB;
-- Conhecimentos em sistemas e plataformas Web de alta disponibilidade e escalabilidade;
-- Conhecimento da Amazon AWS;
-- Experiência com desenvolvimento de sistemas utilizando metodologias ágeis;
-- Experiência em uma ou mais linguagens de programação (Python / Java / Ruby / Shell Script, Perl );
-- Conhecimento de automação de deploy com Puppet / Chef / etc;
-- Conhecimento geral Apache / MySQL / nginx / Redis / Memcache / MongoDB;
-- Conhecimentos de sistemas de controle de versão (preferencialmente GIT).
-
-
-Competências Técnicas Desejáveis:
-
-- Conhecimentos de virtualização e cloud são muito desejáveis;
-- Instalação e configuração de novos ambientes de Desenvolvimento, Homologação e Produção na Amazon AWS;
-- Conhecer os principais serviços Linux e como configurá-los e administrá-los;
-- Topologias com alta disponibilidade e tolerância a falhas. Altamente desejável familiaridade com topologia multi-zona. Experiência em topologias multi-região será um diferencial;
-- Elaboração e implantação de planos de backup, restore, monitoração e disaster-recovery;
-- Integração com ambientes corporativos via VPC;
-- Elaboração e implantação de políticas de segurança.
-
-
- Nossa equipe é top e nosso ambiente é descontraído e inovador!
-
-
-Banco de Dados (2 Vagas)
--------------------------------------
+## Banco de Dados (1 Vagas)
 
 Procuramos um DBA com experiência em ambientes de produção com alta disponibilidade e em suporte a equipes de desenvolvimento. Buscamos alguém que ame Internet, seja flexível, saiba se comunicar bem, goste de trabalhar em equipes e adore aprender novas tecnologias, como Big Data e NoSQL.
 
@@ -297,9 +279,7 @@ Procuramos um DBA com experiência em ambientes de produção com alta disponibi
 * SPARQL
 * Python/Django,Ruby/Rails, Javascript
 
-
-Plataforma de Interatividades (1 Vaga)
--------------------------------------
+## Plataforma de Interatividades (1 Vaga)
 
 Nossa área é responsável por criar e manter os produtos interativos da globo.com como a votação do BBB, o palco de interatividades da TV, o feed de conversa ao vivo com o Bem Estar, Gamification entre outros.
 
