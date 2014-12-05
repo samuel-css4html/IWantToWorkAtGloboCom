@@ -127,9 +127,7 @@ Relação de vagas atual:
 * Área de Esporte (1 vaga)
 * Área de Jornalismo (1 vaga)
 * Área de Entretenimento (1 vaga)
-* Plataforma de Personalização (1 vaga)
 * Plataforma de Comentários (1 vaga)
-* Área de Semântica
 * Tsuru: Plataforma como serviço (1 vaga)
 * Área de Infraestrutura (6 vagas)
 * Banco de Dados (1 vaga)
@@ -195,25 +193,6 @@ Experiência com Python e Django; Experência com práticas de XP (TDD, pair pro
 Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
 
 
-Plataforma de Personalização (1 Vaga)
--------------------------------------
-
-Time responsável por analisar o perfil dos usuários com base em suas iterações com os produtos da globo.com e informações proveniente de suas redes sociais. O objetivo com isso é gerar recomendação de conteúdo relevante para os usuário de modo a aumentar o tempo de permanência nos sites da Globo.com.
-
-
-**Requisitos para a vaga**
-
-* Experiência em uso de bancos NoSql
-* Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
-* Proficiência no desenvolvimento de sistemas de recomendação nas abordagens Collaborative Filtering e Content Based.
-* Experiência no processamento de grandes volumes de dados e eventos em tempo real.
-* Conhecimento do projeto Apache Mahout
-* Experiência sólida em design e arquitetura de software;
-* Experiência sólida em construção de aplicações web com Ruby, Rails;
-* Experiência sólida com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-* Experiência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc)
-
-
 Plataforma de Comentários (1 Vaga)
 -------------------------------------
 
@@ -232,37 +211,6 @@ Time responsável por desenvolver a plataforma de comentários da globo.com.
 * Experiência com infra-estrutura de aplicações web de alta escala;
 * Experiência com um mecanismo de controle de versão;
 * Proficiência no uso de um sistema operacional base Unix (Linux ou Mac OS);
-
-
-
-
-Área de Semântica
--------------------------------------
-
-Esta posição é no time responsável pela semântica da Globo.com. Nossa missão é  organizar todo o conteúdo publicado em nossos sites. Desenvolver formas de mesclar e analisar os dados previamente organizados criando novas formas de consumo do conteúdo da globo.com.
-
-Trabalhamos com as mais diversas linguagens (Java, Python/Django, JS/HTML/CSS), desenvolvendo APIs, ferramentas de anotação, e novos domínios (ontologias).
-
-**Must Have:**
-Ser apaixonado por desenvolvimento e tecnologia;
-Ter facilidade de trabalhar dentro de times multi-disciplinares;
-Escrever código limpo e legível para pessoas;
-Ter conhecimento e experiência em design e arquitetura de software;
-Experiência com Python, Ruby ou C/C++;
-Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-
-**Should Have:**
-Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
-Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
-Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
-Conhecimento de web semântica (Ontologia, Sparql e Owl);
-Conhecimento de vocabulários padrões de mercado(FOAF, Dublin Core, GEO,...)
-
-**Nice to Have:**
-Experiência com metodologias ágeis, como Scrum;
-Experiência com infra-estrutura de aplicações web de alta escala;
-Conhecimento de automação de deploy com Puppet, Chef, etc;
-Ser poliglota em linguagens de programação e linguagens naturais;
 
 
 Tsuru: Plataforma como serviço (1 Vaga)
