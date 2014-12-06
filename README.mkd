@@ -142,17 +142,18 @@ Esta posição é para atuar como DevOps num dos times responsáveis por manter 
 **Must Have:**
 * Experiência com infra-estrutura de aplicações web de alta escala;
 * Experiência com Linux, e algum sistema de empacotamento (rpm, deb, etc)
-* Conhecimento de automação de deploy com alguma ferramenta de provisionamento, tais como Puppet, Chef, etc;
-* Conhecimento de virtualização e/ou conteinerização com XEN, Docker, etc
+* Conhecimento de automação de deploy (capistrano, fabric, etc)
+* Conhecimento de alguma ferramenta de provisionamento, tais como Puppet, Chef, etc;
 * Ser poliglota em linguagens de programação e scripting;
 * Ter facilidade de trabalhar dentro de times multi-disciplinares;
 * Escrever código limpo e legível para pessoas;
 * Experiência com Ruby, Python ou C/C++ (a maioria do nosso código é em Ruby!);
 
 **Should Have:**
-* Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
-* Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
-* Experiência com testes unitários, de aceitação, mocks, Selenium, etc;
+* Conhecimento de virtualização e/ou conteinerização com XEN, Docker, etc
+* Conhecimentos de desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+* Conhecimentos de práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);
+* Conhecimentos de testes unitários, aceitação, mocks, Selenium, etc;
 
 ### Desenvolvimento Webmedia (1 vaga)
 Esta posição é para trabalhar em um dos times de desenvolvimento que cuidam da plataforma e dos produtos de vídeos da (globo.com)[http://www.globo.com/]. Estamos organizados em times pequenos, multi-disciplinares e autônomos, e nós trabalhamos com as mais diversas linguagens de programação (Ruby on Rails, C/C++, Python/Django, JS/HTML/CSS), desenvolvendo desde APIs, sistemas de encoding, infra-estrutura de distribuição e entrega de vídeos, sistemas de recomendação e analytics, até portais, como o (globo.tv)[http://globotv.globo.com] e o (Globosat Play)[http://globosatplay.com.br].
