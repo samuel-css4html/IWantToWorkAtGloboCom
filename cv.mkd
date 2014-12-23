@@ -1,19 +1,42 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+[DevOps Webmedia, Desenvolvimento Webmedia]
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Samuel Vialta Peretta
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Brasileiro, solteiro, 25 anos 
+
+R. Palmira Aparecida de Moraes, 46
+Vila dos Comerciários - Taubaté - SP 
+
+Telefone (12) 3653 5401 / 9 8228 7912 
+
+Email: samuel.peretta@gmail.com
+
+__FORMAÇÃO:__
+
+Graduação em Computação Aplicada. UNITAU, conclusão em 2010 
+
+__EXPERIÊNCIA PROFISSIONAL:__ 
+
+ * 2014 - 2014 - CSS4HTML - Web Experts
+
+ * 2012 - 2013 - Web Developer autonomo
+
+ * 2010 - 2012 - Stefanini IT Solutions (REVAP - PETROBRAS) 
+
+ * 2007 - 2009 - Grupo Antolin Brasil 
+
+__COMPETÊNCIAS:__
+HTML5 , CSS3 , JAVASCRIPT, RUBY ON RAILS, LINUX, WINDOWS, IOS, SERVER APPLICATIONS, DEPLOY, TESTES, MULTI-TAREFADO, BOA SEMANTICA DE CÓDIGO, CONHECIMENTOS EM INFRA-ESTRUTURA E TECNOLOGIA EM GERAL, VIRTUALIZAÇÃO, DESENVOLVIMENTO WEB ( FRAMEWORKS E LINGUAGENS EM GERAL ), TÉCNICAS DE DESENVOLVIMENTO ÁGIL.
+
+__LinkedIn Page:__
+
+https://lnkd.in/bhmKqRv
+
+__Objetivos:__
+Expandir as experiências trabalhando com uma empresa de grande porte e avançando profissionalmente no mercado.
